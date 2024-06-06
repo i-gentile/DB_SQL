@@ -1,0 +1,5 @@
+# id_owner, name_owner, phone, address, id_dog, name_dog, breed, birth, sex, color,fur, iban
+44, Emilio Moreno, 685781234, Plaza Mayor 4 08080 Barcelona, 60, Toby, Dachshund,2024-01-11, M, Black, Short, ES21008384759384738374
+88, Ramon Moreno, 678377473, Calle Centro 12 49001 Zamora,67, Gaby, Beagle, 2013-12-03, F, White,  Long, ES3883782888398783 
+44, Emilio Moreno, 685781234, Plaza Mayor 4 08080 Barcelona, 88, Snow, Rottweiler,2022-03-12, M, Black, Short, ES23423332234432332332
+12, Sergio Ortiz, 673662773, Calle San Ramon 123 01001 Vitoria, 43, Laika, French Bulldog, 2020-05-12, F, Brown, Long, ES399389838888387373
